@@ -29,6 +29,7 @@ body {
 
 /* le block contenu est centré ne dépasse pas la largeur de 720px */
 main {
+    /* top and bottom | left and right */
     margin: 0 auto;
     max-width: 720px;
     width: 90%;
